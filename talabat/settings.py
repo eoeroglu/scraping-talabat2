@@ -40,8 +40,8 @@ ROBOTSTXT_OBEY = True
 DEFAULT_REQUEST_HEADERS = {
    'Accept': 'application/json, text/plain, */*',
    'Accept-Language': 'en-US',
-   "referrer": "https://www.talabat.com/uae/pizza-hut",
-#}
+   "referrer": "https://www.talabat.com/uae/pizza-hut"
+}
 
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
